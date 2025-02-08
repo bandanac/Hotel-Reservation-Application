@@ -1,4 +1,5 @@
 # Hotel Reservation Application
+## Java Programming Nanodegree - Course 2 - Java Fundamentals
 
 In this project, I’ve designed and implemented a **Hotel Reservation Application**. This application allows customers to find and book hotel rooms based on availability. Through this project, I aim to demonstrate my abilities in designing classes using **object-oriented programming (OOP)**, organizing and processing data with **collections**, and utilizing common **Java types**.
 
